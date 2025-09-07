@@ -1,0 +1,9 @@
+serv 2025/08/29 19:46:46 main.go:19: Start server
+serv 2025/08/29 19:46:46 main.go:20: Finish server
+serv 2025/08/29 19:48:04 main.go:19: Start server
+serv 2025/08/29 19:48:04 main.go:20: Finish server
+serv 2025/08/29 19:48:04 main.go:21: go
+maks 2025/08/29 19:48:20 main.go:19: Start server
+maks 2025/08/29 19:48:20 main.go:20: Finish server
+maks 2025/08/29 19:48:20 main.go:21: go
+2025/08/29 19:51:21 main.go:19: Logging to a file in Go!
